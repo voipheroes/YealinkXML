@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Talk>
+  <Disable>
+    <Key Type="Trans to vm"/>
+    <Key Type="Mute"/>
+    <Key Type="Swap"/>
+    <Key Type="NewCall" />
+    <Key Type="Switch" />
+    <Key Type="PriHold" />
+    <Key Type="RTP Status" />
+    <Key Type="Call Shift" />
+    <Key Type="Extend" />
+    <Key Type="Hold" />
+   </Disable>
+  <Enable>
+    <Key Type="Transfer"/>
+    <Key Type="Park"/>
+    <Key Type="Empty"/>
+    <Key Type="End Call"/>
+  </Enable>
+  <Default>
+    <Key Type="Transfer"/>
+    <Key Type="Hold"/>
+    <Key Type="Conference"/>
+    <Key Type="End Call"/>
+  </Default>
+</Talk>
