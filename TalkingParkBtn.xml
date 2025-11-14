@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Talk>
+<Talking>
   <Disable>
     <Key Type="Trans to vm"/>
     <Key Type="Mute"/>
@@ -24,4 +24,4 @@
     <Key Type="Conference"/>
     <Key Type="End Call"/>
   </Default>
-</Talk>
+</Talking>
