@@ -11,6 +11,7 @@
     <Key Type="Call Shift" />
     <Key Type="Extend" />
     <Key Type="Hold" />
+    <Key Type="Empty" />
    </Disable>
   <Enable>
     <Key Type="Transfer"/>
